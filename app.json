@@ -1,0 +1,18 @@
+{
+    "name": "xfup",
+    "description": "xu",
+    "keywords": ["x"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc8521f7"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "",
+    "repository": "https://github.com/hxlfsryupmbq/nnn",
+    "stack": "container"
+}
